@@ -6,7 +6,19 @@
 
 Так же создавал **Backend** **REST API** приложения с использованием framework **NestJS**, **ORM Sequelize** и БД **MySQL**.
 
+---
+
+Контактные данные:
 <br>
+
+<ul>
+<li style="display:flex; align-items:center; list-style: none;">
+<img src="icons/telegram-svgrepo-com.svg" width="20" height="20"> <a href="https://t.me/Konstantine899">@Konstantine899</a>
+</li>
+</ul>
+
+---
+
 В своей работе я использую следующие технологии.
 
 <br>
