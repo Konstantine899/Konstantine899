@@ -7,7 +7,7 @@
 Так же создавал **Backend** **REST API** приложения с использованием framework **NestJS**, **ORM Sequelize** и БД **MySQL**.
 
 ---
-
+<br>
 Контактные данные:
 <br>
 
