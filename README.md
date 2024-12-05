@@ -1,14 +1,16 @@
-## Привет меня зовут Константин
+## Привет! Меня зовут Константин!
 
-Я являюсь действующим Frontend разработчиком.
+Я являюсь действующим **Frontend** разработчиком. Свои приложения я разрабатываю на основе сборщика **Webpack**, **Vite**, транспилятора кода **Babel**, библиотек **React**, **React-Router DOM**, **Redux Toolkit**. Занимался как настройкой, так и оптимизацией конфигурации
+**Webpack** и **Babel**. Так же создавал функционал для пагинации, фильтрации, сортировки, поиска, создавал модальные окна и т.д.
 <br>
+
+Так же создавал **Backend** **REST API** приложения с использованием framework **NestJS**, **ORM Sequelize** и БД **MySQL**.
+
 <br>
 В своей работе я использую следующие технологии.
 
 <br>
-<br>
 Frontend:
-<br>
 <br>
 
 <div align="left">
@@ -25,9 +27,7 @@ Frontend:
 ---
 
 <br>
-<br>
 Backend:
-<br>
 <br>
 
 <div align="left">
@@ -37,3 +37,6 @@ Backend:
 <img align="center" src="icons/sequelize-original.svg" height="40" width="40" style="margin-right: 5px"/>
 <img align="center" src="icons/swagger-original.svg" height="40" width="40" style="margin-right: 5px"/>
 </div>
+
+---
+
